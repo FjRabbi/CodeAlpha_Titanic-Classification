@@ -1,3 +1,3 @@
 # CodeAlpha_Titanic-Classification
 TITANIC CLASSIFICATION 
-Make a system which tells whether the personwill be save from sinking. What factors weremost likely lead to success-socio-economicstatus, age, gender and more.
+Make a system which tells whether the person will be saved from sinking. What factors were most likely to lead to success: socioeconomic status, age, gender and more.
