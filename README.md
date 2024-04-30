@@ -9,8 +9,9 @@ Make a system which tells whether the person will be saved from sinking. What fa
 ![image](https://github.com/FjRabbi/CodeAlpha_Titanic-Classification/assets/72760867/0ab3450f-ba3e-414c-910e-de0a52af9c0d)
 
 </br>
-![image](https://github.com/FjRabbi/CodeAlpha_Titanic-Classification/assets/72760867/2c4d1547-a990-4c32-a276-8b1be4078383)
+![image](https://github.com/FjRabbi/CodeAlpha_Titanic-Classification/assets/72760867/3301c0ee-b12d-47ff-ab4a-b1b3269e7008)
 
+</br>
 
 The 'FamilySize' feature is used as it can potentially capture additional information about a passenger's likelihood of survival. Here's why it might be useful:
 </br>
